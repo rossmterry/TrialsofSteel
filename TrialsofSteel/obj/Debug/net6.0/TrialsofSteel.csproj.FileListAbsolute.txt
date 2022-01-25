@@ -1,0 +1,20 @@
+C:\Users\rossm\source\repos\TrialsofSteel\TrialsofSteel\obj\Debug\net6.0\TrialsofSteel.csproj.AssemblyReference.cache
+C:\Users\rossm\source\repos\TrialsofSteel\TrialsofSteel\obj\Debug\net6.0\TrialsofSteel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rossm\source\repos\TrialsofSteel\TrialsofSteel\obj\Debug\net6.0\TrialsofSteel.AssemblyInfoInputs.cache
+C:\Users\rossm\source\repos\TrialsofSteel\TrialsofSteel\obj\Debug\net6.0\TrialsofSteel.AssemblyInfo.cs
+C:\Users\rossm\source\repos\TrialsofSteel\TrialsofSteel\obj\Debug\net6.0\TrialsofSteel.csproj.CoreCompileInputs.cache
+C:\Users\rossm\Google Drive\Games and Game Dev Projects\Game Dev Projects\Trials of Steel\TrialsofSteel\TrialsofSteel\bin\Debug\net6.0\TrialsofSteel.exe
+C:\Users\rossm\Google Drive\Games and Game Dev Projects\Game Dev Projects\Trials of Steel\TrialsofSteel\TrialsofSteel\bin\Debug\net6.0\TrialsofSteel.deps.json
+C:\Users\rossm\Google Drive\Games and Game Dev Projects\Game Dev Projects\Trials of Steel\TrialsofSteel\TrialsofSteel\bin\Debug\net6.0\TrialsofSteel.runtimeconfig.json
+C:\Users\rossm\Google Drive\Games and Game Dev Projects\Game Dev Projects\Trials of Steel\TrialsofSteel\TrialsofSteel\bin\Debug\net6.0\TrialsofSteel.dll
+C:\Users\rossm\Google Drive\Games and Game Dev Projects\Game Dev Projects\Trials of Steel\TrialsofSteel\TrialsofSteel\bin\Debug\net6.0\ref\TrialsofSteel.dll
+C:\Users\rossm\Google Drive\Games and Game Dev Projects\Game Dev Projects\Trials of Steel\TrialsofSteel\TrialsofSteel\bin\Debug\net6.0\TrialsofSteel.pdb
+C:\Users\rossm\Google Drive\Games and Game Dev Projects\Game Dev Projects\Trials of Steel\TrialsofSteel\TrialsofSteel\obj\Debug\net6.0\TrialsofSteel.csproj.AssemblyReference.cache
+C:\Users\rossm\Google Drive\Games and Game Dev Projects\Game Dev Projects\Trials of Steel\TrialsofSteel\TrialsofSteel\obj\Debug\net6.0\TrialsofSteel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rossm\Google Drive\Games and Game Dev Projects\Game Dev Projects\Trials of Steel\TrialsofSteel\TrialsofSteel\obj\Debug\net6.0\TrialsofSteel.AssemblyInfoInputs.cache
+C:\Users\rossm\Google Drive\Games and Game Dev Projects\Game Dev Projects\Trials of Steel\TrialsofSteel\TrialsofSteel\obj\Debug\net6.0\TrialsofSteel.AssemblyInfo.cs
+C:\Users\rossm\Google Drive\Games and Game Dev Projects\Game Dev Projects\Trials of Steel\TrialsofSteel\TrialsofSteel\obj\Debug\net6.0\TrialsofSteel.csproj.CoreCompileInputs.cache
+C:\Users\rossm\Google Drive\Games and Game Dev Projects\Game Dev Projects\Trials of Steel\TrialsofSteel\TrialsofSteel\obj\Debug\net6.0\TrialsofSteel.dll
+C:\Users\rossm\Google Drive\Games and Game Dev Projects\Game Dev Projects\Trials of Steel\TrialsofSteel\TrialsofSteel\obj\Debug\net6.0\ref\TrialsofSteel.dll
+C:\Users\rossm\Google Drive\Games and Game Dev Projects\Game Dev Projects\Trials of Steel\TrialsofSteel\TrialsofSteel\obj\Debug\net6.0\TrialsofSteel.pdb
+C:\Users\rossm\Google Drive\Games and Game Dev Projects\Game Dev Projects\Trials of Steel\TrialsofSteel\TrialsofSteel\obj\Debug\net6.0\TrialsofSteel.genruntimeconfig.cache
